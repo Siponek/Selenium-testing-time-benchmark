@@ -1,0 +1,9 @@
+[submodule "Java-Maven-Webdriver"]
+	path = Java-Maven-Webdriver
+	url = https://github.com/Siponek/Java-Maven-Webdriver.git
+[submodule "Java-Maven-SeleniumJupiter"]
+	path = Java-Maven-SeleniumJupiter
+	url = https://github.com/Siponek/Java-Maven-SeleniumJupiter.git
+[submodule "spring-petclinic"]
+	path = spring-petclinic
+	url = https://github.com/spring-projects/spring-petclinic.git
