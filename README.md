@@ -13,6 +13,10 @@ This is a super-repository for comparing writing unit tests between JUnit + Sele
 
 
 # Before starting up
+For downloading the submodules:
+```bash
+git submodule update --init --recursive
+```
 
 If you want to ***easly*** start the PetClinic backend you need to create docker image.
 
